@@ -1,0 +1,65 @@
+	html, body
+	{
+		height: 100%;
+	}
+	
+	body
+	{
+		margin: 0px;
+		padding: 0px;
+        line-height: 1.8;
+		background: #cdf0e8;
+		font-size: 11pt;
+		font-weight: 300;
+		color: #060233;
+	}
+	
+    img
+    {
+        width: 35%;
+        height: 35%;
+    }
+	
+	h1
+	{
+		margin: 0;
+		padding: 0;
+		font-weight: 700;
+		color: #053b92;
+	}
+
+    span
+	{
+		margin: 0;
+		padding: 0;
+		font-weight: 700;
+		color: #021f4e;
+	}
+	
+    input[type=submit] {
+        background-color: #0bc2eb;
+        border: none;
+        color: white;
+        padding: 16px 32px;
+        text-decoration: none;
+        margin: 4px 2px;
+        cursor: pointer;
+      }	
+    input[type=submit]:hover
+	{
+		background-color: #042e82;
+	}
+
+	input[type=file] {
+        background-color: #04a722;
+        border: none;
+        color: white;
+        padding: 16px 32px;
+        text-decoration: none;
+        margin: 4px 2px;
+        cursor: pointer;
+      }	
+    input[type=file]:hover
+	{
+		background-color: #025404;
+	}

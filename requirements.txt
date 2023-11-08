@@ -1,0 +1,9 @@
+tensorflow
+opencv-python
+pandas
+numpy
+Flask
+Python-IO
+pillow
+json
+ultralytics
